@@ -1,8 +1,7 @@
 {
-    "dependencies":{
-    },
+    "dependencies":{},
     "devDependencies":{
-        "testbox":"^4.2.1+400"
+        "testbox":"^4.5.0+5"
     },
     "installPaths":{
         "testbox":"testbox/"
